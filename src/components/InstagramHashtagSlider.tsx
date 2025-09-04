@@ -14,11 +14,11 @@ const HASHTAGS = [
 ];
 
 const IMAGES = [
-  "/favlour/f1.webp",
-  "/favlour/f2.webp",
-  "/favlour/f3.webp",
-  "/favlour/f4.webp",
-  "/favlour/f5.webp",
+  "/hslider/h1.webp",
+  "/hslider/h2.webp",
+  "/hslider/h3.webp",
+  "/hslider/h4.webp",
+  "/hslider/h5.webp",
 ];
 
 const TileRow: React.FC = () => {
