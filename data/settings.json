@@ -1,0 +1,55 @@
+{
+  "site": {
+    "name": "Biosoft",
+    "tagline": "Premium Hair Removal Products",
+    "description": "Professional-grade hair removal products for at-home use. Save time and money with salon-quality waxing solutions.",
+    "contactEmail": "hello@biosoft.com",
+    "phone": "+1 (555) 123-4567",
+    "address": {
+      "street": "123 Beauty Lane",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90210",
+      "country": "USA"
+    },
+    "socialMedia": {
+      "instagram": "@biosoft",
+      "tiktok": "@biosoft",
+      "facebook": "biosoft",
+      "youtube": "biosoft"
+    }
+  },
+  "forms": {
+    "contactFormEndpoint": "https://formspree.io/f/your-form-id",
+    "newsletterEndpoint": "https://formspree.io/f/your-newsletter-id",
+    "inquiryEndpoint": "https://formspree.io/f/your-inquiry-id"
+  },
+  "features": {
+    "freeShippingThreshold": 25,
+    "currency": "USD",
+    "currencySymbol": "$",
+    "showPrices": false,
+    "enableNewsletter": true,
+    "enableLiveChat": false
+  },
+  "seo": {
+    "defaultTitle": "Biosoft - Premium Hair Removal Products",
+    "defaultDescription": "Professional-grade hair removal products for at-home use. Save time and money with salon-quality waxing solutions.",
+    "keywords": "hair removal, waxing, hard wax beans, soft wax strips, at-home waxing, salon quality",
+    "ogImage": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=biosoft%20brand%20logo%20hair%20removal%20products%20professional%20dark%20theme%20neon%20accents&image_size=landscape_4_3"
+  },
+  "navigation": {
+    "mainMenu": [
+      {"label": "Home", "href": "/"},
+      {"label": "Products", "href": "/products"},
+      {"label": "About", "href": "/about"},
+      {"label": "Contact", "href": "/contact"}
+    ],
+    "footerMenu": [
+      {"label": "Privacy Policy", "href": "/privacy"},
+      {"label": "Terms of Service", "href": "/terms"},
+      {"label": "Shipping Info", "href": "/shipping"},
+      {"label": "Returns", "href": "/returns"}
+    ]
+  }
+}

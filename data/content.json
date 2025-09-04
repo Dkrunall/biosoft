@@ -1,0 +1,100 @@
+{
+  "heroSections": [
+    {
+      "id": "main-hero",
+      "title": "Game-Changing Hair Removal Products",
+      "subtitle": "At-home waxing has never been more affordable!",
+      "backgroundImage": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20spa%20aesthetic%20dark%20background%20neon%20pink%20blue%20accents%20hair%20removal%20products%20luxury&image_size=landscape_16_9",
+      "ctaText": "SHOP NOW",
+      "ctaLink": "/products",
+      "gradient": "from-pink-500/20 via-purple-500/20 to-blue-500/20"
+    },
+    {
+      "id": "secondary-hero",
+      "title": "Professional Results at Home",
+      "subtitle": "Save time and money with salon-quality waxing",
+      "backgroundImage": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=woman%20smooth%20legs%20professional%20waxing%20results%20home%20spa%20luxury%20dark%20aesthetic&image_size=landscape_16_9",
+      "ctaText": "LEARN MORE",
+      "ctaLink": "/about",
+      "gradient": "from-green-500/20 via-teal-500/20 to-cyan-500/20"
+    }
+  ],
+  "taglines": [
+    "🐒 made by two hairy guys. 🦍",
+    "Save time and money taking care of the hair at home!",
+    "Professional salon results in your own bathroom",
+    "Gentle on skin, tough on hair"
+  ],
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "text": "Best wax I've ever used! So much better than salon visits.",
+      "author": "@beautyqueen",
+      "rating": 5,
+      "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=happy%20woman%20testimonial%20profile%20picture%20beauty%20skincare%20satisfied%20customer&image_size=square"
+    },
+    {
+      "id": "testimonial-2",
+      "text": "Finally found a wax that doesn't irritate my sensitive skin!",
+      "author": "@skincarelover",
+      "rating": 5,
+      "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=woman%20with%20sensitive%20skin%20happy%20testimonial%20natural%20beauty%20satisfied&image_size=square"
+    },
+    {
+      "id": "testimonial-3",
+      "text": "The chocolate scent makes waxing actually enjoyable!",
+      "author": "@homespa",
+      "rating": 5,
+      "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=woman%20enjoying%20spa%20treatment%20chocolate%20scent%20relaxed%20happy%20customer&image_size=square"
+    },
+    {
+      "id": "testimonial-4",
+      "text": "Saves me $200+ per month on salon visits. Amazing quality!",
+      "author": "@budgetbeauty",
+      "rating": 5,
+      "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=satisfied%20customer%20money%20savings%20budget%20beauty%20happy%20woman&image_size=square"
+    }
+  ],
+  "promotionalBanners": [
+    {
+      "id": "free-shipping",
+      "text": "FREE SHIPPING ON ORDERS $25+",
+      "type": "announcement",
+      "color": "neon-pink"
+    },
+    {
+      "id": "new-customer",
+      "text": "NEW CUSTOMERS GET 15% OFF",
+      "type": "discount",
+      "color": "neon-green"
+    },
+    {
+      "id": "bundle-deal",
+      "text": "BUY 2 GET 1 FREE ON ALL BUNDLES",
+      "type": "offer",
+      "color": "neon-blue"
+    }
+  ],
+  "valuePropositions": [
+    {
+      "icon": "shield-check",
+      "title": "Gentle Formula",
+      "description": "Specially formulated for sensitive skin with natural ingredients"
+    },
+    {
+      "icon": "clock",
+      "title": "Quick & Easy",
+      "description": "Professional results in minutes, not hours at the salon"
+    },
+    {
+      "icon": "dollar-sign",
+      "title": "Save Money",
+      "description": "Cost-effective alternative to expensive salon treatments"
+    },
+    {
+      "icon": "star",
+      "title": "Salon Quality",
+      "description": "Professional-grade products used by beauty experts worldwide"
+    }
+  ]
+}

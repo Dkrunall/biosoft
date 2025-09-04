@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": "hard-wax-beans",
+      "name": "Hard Wax Beans",
+      "slug": "hard-wax-beans",
+      "description": "Premium hard wax beans for professional results",
+      "icon": "droplets",
+      "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=hard%20wax%20beans%20collection%20different%20colors%20chocolate%20honey%20professional%20hair%20removal&image_size=square_hd",
+      "sortOrder": 1
+    },
+    {
+      "id": "soft-wax-strips",
+      "name": "Soft Wax Strips",
+      "slug": "soft-wax-strips",
+      "description": "Ready-to-use wax strips for convenience",
+      "icon": "layers",
+      "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=soft%20wax%20strips%20ready%20to%20use%20hair%20removal%20convenient%20packaging&image_size=square_hd",
+      "sortOrder": 2
+    },
+    {
+      "id": "accessories",
+      "name": "Waxing Accessories",
+      "slug": "accessories",
+      "description": "Professional tools and aftercare products",
+      "icon": "wrench",
+      "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=waxing%20accessories%20tools%20spatulas%20aftercare%20products%20professional%20setup&image_size=square_hd",
+      "sortOrder": 3
+    },
+    {
+      "id": "bundles",
+      "name": "Value Bundles",
+      "slug": "bundles",
+      "description": "Complete waxing kits and combo deals",
+      "icon": "package",
+      "image": "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=waxing%20bundle%20kit%20complete%20hair%20removal%20set%20value%20package&image_size=square_hd",
+      "sortOrder": 4
+    }
+  ]
+}

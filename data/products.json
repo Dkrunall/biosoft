@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "id": "hard-wax-chocolate",
+      "name": "Chocolate Hard Wax Beans",
+      "slug": "chocolate-hard-wax-beans",
+      "description": "Premium chocolate-scented hard wax beans for professional at-home hair removal",
+      "ingredients": "Natural rosin, beeswax, coconut oil, cocoa extract",
+      "usageInstructions": "Heat to 65°C, apply against hair growth, remove with quick motion",
+      "benefits": [
+        "Gentle on sensitive skin",
+        "Long-lasting smooth results",
+        "Pleasant chocolate scent",
+        "Professional salon quality"
+      ],
+      "images": [
+        "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=chocolate%20hard%20wax%20beans%20premium%20hair%20removal%20product%20dark%20brown%20color%20professional%20packaging&image_size=square_hd",
+        "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=woman%20using%20chocolate%20wax%20beans%20at%20home%20spa%20lifestyle%20smooth%20skin&image_size=landscape_4_3",
+        "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=natural%20ingredients%20cocoa%20beeswax%20coconut%20oil%20organic%20beauty%20products&image_size=square"
+      ],
+      "category": "hard-wax-beans",
+      "featured": true,
+      "variants": [
+        {
+          "name": "Small (100g)",
+          "sku": "CHW-100",
+          "attributes": {"weight": "100g", "color": "#8B4513"}
+        },
+        {
+          "name": "Large (500g)",
+          "sku": "CHW-500",
+          "attributes": {"weight": "500g", "color": "#8B4513"}
+        }
+      ]
+    },
+    {
+      "id": "hard-wax-honey",
+      "name": "Honey Hard Wax Beans",
+      "slug": "honey-hard-wax-beans",
+      "description": "Natural honey-infused hard wax beans for sensitive skin",
+      "ingredients": "Natural rosin, beeswax, honey extract, vitamin E",
+      "usageInstructions": "Heat to 65°C, apply against hair growth, remove with quick motion",
+      "benefits": [
+        "Perfect for sensitive skin",
+        "Moisturizing honey formula",
+        "Anti-inflammatory properties",
+        "Salon-grade quality"
+      ],
+      "images": [
+        "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=honey%20hard%20wax%20beans%20golden%20color%20premium%20hair%20removal%20product%20natural%20packaging&image_size=square_hd",
+        "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=honey%20wax%20application%20smooth%20legs%20spa%20treatment%20golden%20color&image_size=landscape_4_3"
+      ],
+      "category": "hard-wax-beans",
+      "featured": true,
+      "variants": [
+        {
+          "name": "Small (100g)",
+          "sku": "HHW-100",
+          "attributes": {"weight": "100g", "color": "#FFD700"}
+        },
+        {
+          "name": "Large (500g)",
+          "sku": "HHW-500",
+          "attributes": {"weight": "500g", "color": "#FFD700"}
+        }
+      ]
+    },
+    {
+      "id": "soft-wax-strips",
+      "name": "Professional Soft Wax Strips",
+      "slug": "professional-soft-wax-strips",
+      "description": "Ready-to-use soft wax strips for quick and easy hair removal",
+      "ingredients": "Natural wax, chamomile extract, aloe vera",
+      "usageInstructions": "Warm between hands, apply to skin, remove quickly against hair growth",
+      "benefits": [
+        "No heating required",
+        "Perfect for beginners",
+        "Chamomile soothes skin",
+        "Travel-friendly"
+      ],
+      "images": [
+        "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=soft%20wax%20strips%20ready%20to%20use%20hair%20removal%20professional%20packaging%20clean%20design&image_size=square_hd",
+        "https://trae-api-sg.mchost.guru/api/ide/v1/text_to_image?prompt=woman%20using%20wax%20strips%20easy%20hair%20removal%20at%20home%20convenience&image_size=landscape_4_3"
+      ],
+      "category": "soft-wax-strips",
+      "featured": false,
+      "variants": [
+        {
+          "name": "Face & Bikini (20 strips)",
+          "sku": "SWS-20",
+          "attributes": {"count": "20 strips", "area": "face-bikini"}
+        },
+        {
+          "name": "Body (40 strips)",
+          "sku": "SWS-40",
+          "attributes": {"count": "40 strips", "area": "body"}
+        }
+      ]
+    }
+  ]
+}
