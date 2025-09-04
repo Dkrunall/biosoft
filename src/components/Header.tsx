@@ -20,7 +20,7 @@ const Header: React.FC<HeaderProps> = ({ logo = '/logo.png', siteName = 'Biosoft
             <img src={logo} alt={siteName} className="h-7 sm:h-8 lg:h-9 w-auto block" />
 
             {/* Center: search */}
-            <div className="flex-1 ml-1 sm:ml-2">
+            <div className="hidden md:block flex-1 ml-1 sm:ml-2">
               <div className="relative">
                 <Search size={18} className="absolute left-3 top-1/2 -translate-y-1/2 text-black/60 dark:text-white/60" />
                 <input
